@@ -1,7 +1,7 @@
 # House Prices-Advanced Regression Techniques
 ## housepricesexperiment(5).ipynb-ექსპერიმენტი 
 ## inference.ipynb - საბოლოოდ დატრენინგებული მოდელით ტესტზე prediction-ის გაკეთება
-## https://dagshub.com/icosahedron31/ML-HW-1.mlflow/ - mlflow tracking
+
 # პირობა 
 გვქონდა სახლების მონაცემები (79 ცვლადი) და ამ სახლების გაყიდვის ფასები. მოდელს უნდა ევარაუდა ფასები აქამდე უნახავ მონაცემებზე და ის შეფასდებოდა შემდეგი მეტრიკით: RMSE ჩვენს მიერ ნავარაუდები ფასის ლოგარითმებსა და ნამდვილი ფასების ლოგარითმებს შორის. 
 
@@ -145,4 +145,4 @@ train-ზე იგივე შედეგი ჰქონდა რაც 100
 ## cv-rmse-val-mean - 0.138 
 ## cv-rmse-train-mean - 0.105
 ## cv-rmse-val-std - 0.032
-
+## https://dagshub.com/icosahedron31/ML-HW-1.mlflow/ - mlflow tracking
